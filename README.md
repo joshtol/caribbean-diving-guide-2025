@@ -1,5 +1,7 @@
 # The Caribbean Diving Encyclopedia 2025
 
+![Caribbean Diving Encyclopedia Demo](images/demo-screenshot.png)
+
 An interactive, in-depth guide to Caribbean scuba diving in 2025, focusing on reef health, conservation, and eco-tourism. This project serves as a demonstration of iterative, agentic development with an advanced AI assistant.
 
 **Live Site:** [https://joshtol.github.io/caribbean-diving-guide-2025/](https://joshtol.github.io/caribbean-diving-guide-2025/)
