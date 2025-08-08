@@ -2,7 +2,7 @@
 
 ![Caribbean Diving Encyclopedia Demo](images/demo-screenshot.png)
 
-An interactive, in-depth guide to Caribbean scuba diving in 2025, focusing on reef health, conservation, and eco-tourism. This project serves as a demonstration of iterative, agentic development with an advanced AI assistant.
+An interactive, in-depth guide to Caribbean scuba diving in 2025. This project serves as a public case study in building a complete web application using a proprietary, multi-agent AI swarm.
 
 **Live Site:** [https://joshtol.github.io/caribbean-diving-guide-2025/](https://joshtol.github.io/caribbean-diving-guide-2025/)
 
@@ -10,29 +10,27 @@ An interactive, in-depth guide to Caribbean scuba diving in 2025, focusing on re
 
 ### About This Project
 
-This project was developed to be both a beautiful, functional travel guide and a public showcase of a unique human-AI collaboration. As an AI engineer and not a scuba diver myself, I built this guide to rigorously test my hallucination filtering protocols and prompt engineering skills.
+This project was developed to be both a functional travel guide and a transparent showcase of a sophisticated human-AI development workflow. As an AI engineer and not a scuba diver myself, I built this guide to rigorously test my proprietary AI agent swarm, including its hallucination filtering protocols and high-velocity development capabilities.
 
-The AI-driven development cycle was fueled by a **proprietary research system**. All AI-generated information was then validated for accuracy by an actual expert diver (my lovely girlfriend) who has personally visited several of these locations.
+The AI-driven development cycle was fueled by a suite of cutting-edge tools, including **Gemini CLI, Google Code Assist, Charm CRUSH CLI Agent, OpenRouter, and custom agents (e.g., Qwen3 Coder)**. All AI-generated information was then validated for accuracy by a human subject matter expert (my lovely girlfriend), an experienced diver who has personally visited several of these locations.
 
-This repository demonstrates a workflow where an AI agent, guided by a subject matter non-expert, can produce accurate, expert-level content that is then verified by a human expert.
+This repository demonstrates a workflow where an AI swarm, operating under a constitutional framework, can produce accurate, expert-level content guided by a non-expert and verified by an expert.
 
 ### Features
 
 * **Responsive Design:** Mobile-first design that looks great on all devices.
-* **Rich Content:** In-depth, AI-researched content on 6 major Caribbean diving destinations.
-* **SEO Optimized:** Includes comprehensive metadata and Schema.org structured data for maximum search engine visibility.
-* **Accessible:** Semantic HTML and ARIA attributes are used to improve accessibility.
-* **Modern Tech Stack:** Built with HTML5, Tailwind CSS, and modern JavaScript.
+* **AI-Generated Content:** In-depth, AI-researched content on 6 major Caribbean diving destinations.
+* **SEO Optimized:** Includes comprehensive metadata and Schema.org structured data.
+* **Modern Tech Stack:** Built with HTML5 and Tailwind CSS.
 
-### Development Process
+### The Development Process: An Agentic Swarm Workflow
 
-This repository showcases an "agentic" development workflow. Each commit can be seen as a step in a conversation, with the AI agent performing tasks like:
+This repository showcases a "high-velocity" development workflow governed by the principles in my operational constitution. The process involved:
 
-* **Deep Research:** Synthesizing the latest ecological data using a proprietary research system to fuel the development cycle.
-* **HTML and CSS Scaffolding:** Building the initial structure and layout.
-* **Iterative Design:** Refining UI/UX, typography, and imagery based on high-level feedback.
-* **Full-Stack Implementation:** Generating everything from HTML/CSS to metadata and structured data.
-* **Debugging and Code Refinement:** Identifying and fixing issues throughout the process.
+* **Automated Research:** The AI swarm utilized an automated research system (`wild-research/`) to synthesize the latest ecological and travel data.
+* **Constitutional Safeguards:** All actions were governed by a multi-layered defense system to ensure safety, efficiency, and alignment with user intent.
+* **Autonomous Reasoning & Improvement (ARI) Loop:** The agents operated on a continuous cycle of orienting (researching their knowledge base), acting (executing tools), observing results, and reflecting (self-correction and verification).
+* **End-to-End Execution:** The swarm handled the entire development process, from initial research and content generation to coding, image generation, and preparing the repository for deployment.
 
 ### How to Run Locally
 
@@ -50,4 +48,4 @@ This repository showcases an "agentic" development workflow. Each commit can be 
 
 ---
 
-Created by **joshtol** with AI assistance.
+Created by **joshtol** using a proprietary AI agent swarm.
