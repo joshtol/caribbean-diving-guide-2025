@@ -8,9 +8,11 @@ An interactive, in-depth guide to Caribbean scuba diving in 2025, focusing on re
 
 ### About This Project
 
-This project was developed to be both a beautiful, functional travel guide and a public showcase of the power of human-AI collaboration in web development. The entire application, from initial research and content generation to design, coding, and SEO optimization, was built through a series of iterative prompts and refinements with an AI agent.
+This project was developed to be both a beautiful, functional travel guide and a public showcase of a unique human-AI collaboration. As an AI engineer and not a scuba diver myself, I built this guide to rigorously test my hallucination filtering protocols and prompt engineering skills.
 
-The guide provides a comprehensive look at the top diving destinations in the Caribbean, with a special focus on the ecological challenges facing the region's coral reefs in 2025 and the conservation efforts underway to protect them.
+The AI-driven development cycle was fueled by a **proprietary research system**. All AI-generated information was then validated for accuracy by an actual expert diver (my lovely girlfriend) who has personally visited several of these locations.
+
+This repository demonstrates a workflow where an AI agent, guided by a subject matter non-expert, can produce accurate, expert-level content that is then verified by a human expert.
 
 ### Features
 
@@ -24,11 +26,11 @@ The guide provides a comprehensive look at the top diving destinations in the Ca
 
 This repository showcases an "agentic" development workflow. Each commit can be seen as a step in a conversation, with the AI agent performing tasks like:
 
-* Initial research and content writing.
-* HTML and CSS scaffolding.
-* Iterative design changes based on feedback (fonts, layout, imagery).
-* Advanced optimization for SEO and accessibility.
-* Debugging and code refinement.
+* **Deep Research:** Synthesizing the latest ecological data using a proprietary research system to fuel the development cycle.
+* **HTML and CSS Scaffolding:** Building the initial structure and layout.
+* **Iterative Design:** Refining UI/UX, typography, and imagery based on high-level feedback.
+* **Full-Stack Implementation:** Generating everything from HTML/CSS to metadata and structured data.
+* **Debugging and Code Refinement:** Identifying and fixing issues throughout the process.
 
 ### How to Run Locally
 
